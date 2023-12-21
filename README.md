@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="img" align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jia-Baos)](https://github.com/Jia-Baos/github-readme-stats)
 
 ![](https://img.shields.io/badge/tools-Cpp-yellow)
