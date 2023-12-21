@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jia-Baos)](https://github.com/Jia-Baos/github-readme-stats)
 
+<!--
 <div id="img" align=center>
 
 ![](https://img.shields.io/badge/tools-Cpp-yellow)
 
 </div>
+-->
